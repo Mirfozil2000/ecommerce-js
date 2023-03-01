@@ -1,0 +1,24 @@
+{
+  "name": "ecommerce",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mirfozil2000/ecommerce-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mirfozil2000/ecommerce-js/issues"
+  },
+  "homepage": "https://github.com/Mirfozil2000/ecommerce-js#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
